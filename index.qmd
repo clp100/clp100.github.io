@@ -17,7 +17,7 @@ about:
 
 # About Me
 
-I recently received my Master's of Science in Biomedical and Health Informatics from the Case Western Reserve University (CWRU) School of Medicine. I am experienced in advanced statistical modeling, data analysis, and computer programming in R, Python, SAS, SQL, and MATLAB. I am passionate about using data analytics to improve health outcomes, particularly for neonatal and pediatric patients. 
+I recently received my Master of Science in Biomedical and Health Informatics from the Case Western Reserve University (CWRU) School of Medicine. I am experienced in advanced statistical modeling, data analysis, and computer programming in R, Python, SAS, SQL, and MATLAB. I am passionate about using data analytics to improve health outcomes, particularly for neonatal and pediatric patients. 
 
 Please feel free to [contact me](mailto:clp100@case.edu).
 
