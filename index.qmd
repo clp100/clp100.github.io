@@ -17,13 +17,13 @@ about:
 
 # About Me
 
-I graduated from Case Western Reserve University (CWRU) with a Bachelors of Science in Systems Biology and a minor in Chemistry in May 2023. I am currently pursuing an MS in Biomedical and Health Informatics from the CWRU School of Medicine. I am experienced in data analysis, statistical modeling, and computer programming in R, Python, and MATLAB. My passions include using data analytics to improve health outcomes, particularly for neonatal and pediatric patients. 
+I recently received my Master's of Science in Biomedical and Health Informatics from the Case Western Reserve University (CWRU) School of Medicine. I am experienced in advanced statistical modeling, data analysis, and computer programming in R, Python, SAS, SQL, and MATLAB. I am passionate about using data analytics to improve health outcomes, particularly for neonatal and pediatric patients. 
 
 Please feel free to [contact me](mailto:clp100@case.edu).
 
 # Education
 
-MS Candidate: Biomedical and Health Informatics -- CWRU School of Medicine, Class of 2024
+MS Biomedical and Health Informatics -- CWRU School of Medicine, Class of 2024
 
 BS Systems Biology -- Case Western Reserve University, Class of 2023
 
@@ -32,13 +32,4 @@ BS Systems Biology -- Case Western Reserve University, Class of 2023
 
 April 15th, 2024
 
-From the article titled "Statistical Inference in the World Beyond p < 0.05" (link: https://amstat.tandfonline.com/toc/utas20/73/sup1), I have learned why many statisticians have started to avoid the term "statistical significance". Originally, statistical significance was intended to be used as a tool to identify results that required further investigation. Nowadays, with widespread use, the term is confused with scientific importance. The dichotomy of p-values has led many researchers to jump to conclusions about the validity (or invalidity) of their results based on the concept of statistical significance, when this was never its intended use. As stated by the author, "no p-value can reveal the plausibility, presence, truth, or importance of an association or effect". As a result of reading this article, I have become critical of publications that solely rely on p-values to validate their findings, and I ensure that my work includes more meaningful information (such as confidence intervals) about my results. 
-
-
-
-
-
-
-
-
-
+From the article titled [Statistical Inference in the World Beyond p < 0.05 ](https://amstat.tandfonline.com/toc/utas20/73/sup1), I have learned why many researchers have started to avoid the term "statistical significance". Originally, statistical significance was intended to be used as a tool to identify results that required further investigation. Nowadays, with widespread use, the term is confused with scientific importance. The dichotomy of p-values has led many researchers to jump to conclusions about the validity (or invalidity) of their results based on the concept of statistical significance, when this was never its intent. As stated by the author, "no p-value can reveal the plausibility, presence, truth, or importance of an association or effect". As a result of reading this article, I have become critical of publications that solely rely on p-values to validate their findings, and I ensure that my work includes more meaningful information (such as confidence intervals) about my results. 
